@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/title_home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_history"
+        android:title="Transactions"
+        android:icon="@drawable/ic_history" />
+    <item
+        android:id="@+id/nav_stats"
+        android:title="@string/title_stats"
+        android:icon="@drawable/ic_chart" />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/title_settings"
+        android:icon="@drawable/ic_settings" />
+</menu>

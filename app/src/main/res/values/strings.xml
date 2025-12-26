@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pocket Money</string>
+    <string name="add_transaction">Transaction</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="view_analysis">Spend View</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="budget">Monthly Budget</string>
+    <string name="currency">Currency</string>
+    <string name="no_transactions">No transactions yet.</string>
+    <string name="budget_exceeded">Budget Exceeded!</string>
+    <string name="budget_warning">Approaching Budget Limit!</string>
+    <string name="daily_reminder">Don’t forget to log today’s expenses!</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="cancel">Cancel</string>
+    <string name="note">Note</string>
+    <string name="time">Time</string>
+    <string name="title_history">History</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="add_income">Add Income</string>
+    <string name="clear_data">Clear Transactions</string>
+    <string name="export_data">Export Data</string>
+    <string name="title_home">Home</string>
+    <string name="title_stats">Stats</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_transaction">Transactions</string>
+    <string name="splash_logo_description">Splash screen logo animation</string>
+
+    <string name="settings">Settings</string>
+
+
+</resources>

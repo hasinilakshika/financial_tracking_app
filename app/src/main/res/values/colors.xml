@@ -1,0 +1,28 @@
+
+<resources>
+    <color name="primary_pink">#6200EE</color>
+    <color name="primary_pink_variant">#C2185B</color>
+    <color name="pink_light">#FF5896</color>
+    <color name="primary_navy_blue">#1A237E</color>
+    <color name="purple_200">#D0AAFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#E53935</color>
+    <color name="green">#43A047</color>
+    <color name="light_gray">#B0BEC5</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="secondary_mint_green">#48C9B0</color>
+    <color name="accent_coral">#FF6F61</color>
+    <color name="primary_blue">#5c39e6</color>
+    <color name="primary_blue_variant">#1A1AFF</color>
+    <color name="gray1">#D1D1D1</color>
+    <color name="gray">#808080</color>
+    <color name="splash_background">#d6c3ff</color>
+
+
+
+</resources>
